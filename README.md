@@ -1,2 +1,2 @@
-# Welcome to my GitHub overview!
+# Welcome to my GitHub profile!
 I’m Chris, a dedicated Bioinformatics Contractor and Consultant. I’m passionate about unlocking the secrets hidden in biological data. With my expertise in data analysis, genomics, and programming, I specialize in finding innovative solutions to complex bioinformatical problems. Below you'll find the projects I've been working on. Enjoy scrolling and feel free to reach out to me anytime!
